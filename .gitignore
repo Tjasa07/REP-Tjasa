@@ -1,8 +1,8 @@
 *.aux
 *.pdf
-!slika.pdf
 *.fls
 *.log
 *.zip
 *.gz
 *.fdb_latexmk
+!magic.pdf
