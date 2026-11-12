@@ -1,12 +1,32 @@
+# VSCode uporabniške nastavitve
+.vscode/
+
+# LaTeX
 *.aux
-*.pdf
-*.fls
-*.log
-*.zip
-*.gz
-*.fdb_latexmk
-!magic-resitev.pdf
 *.bbl
 *.blg
+*.fdb_latexmk
 *.toc
+*.fls
+*.idx
+*.ilg
+*.ind
+*.log
+*.nav
 *.out
+*.pdf
+*.pyc
+*.snm
+*.synctex.gz
+!slika.pdf
+!magic-resitev.pdf
+
+# MacOS
+__MACOSX
+.DS_Store
+
+# Windows
+thumbs.db
+
+# Python
+__pycache__
