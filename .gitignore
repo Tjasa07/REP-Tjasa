@@ -20,6 +20,7 @@
 *.synctex.gz
 !slika.pdf
 !magic-resitev.pdf
+!matematika-resitev.pdf
 
 # MacOS
 __MACOSX
